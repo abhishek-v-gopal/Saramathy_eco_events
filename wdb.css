@@ -74,7 +74,13 @@
   .font{
     font-family: 'Lora', serif;
     font-family: 'Merriweather', serif;
-    color: #022404
+    color: #000;
+  }
+  .font{
+    font-family: 'Lora', serif;
+    font-family: 'Merriweather', serif;
+    color: #000;
+
   }
   .imge{
     opacity: 70%;
